@@ -12,7 +12,9 @@ body {
     font-family: 'Asul', sans-serif;
     font-weight: 300;
     color: #3a3a3a;
+    margin-bottom: 150px;
    }
+
 
 /* headings and logo */
 h1, h2 {
@@ -101,10 +103,11 @@ h1, h2 {
 
     padding-top: 40px;
     padding-left: 10px;
+
     background-color: rgba(241, 109, 107, .7);
 
     bottom: 30px;
-    right: 150;
+    right: 150px;
 
     position: absolute;
 }
@@ -251,13 +254,13 @@ footer {
     background-size: cover;
     background-position: center;
     height: 900px;
-}
+     }
 
 .signup-form {
     margin: 150px 10% 0 0;
     color: #fff;
     background-color: rgba(60, 60, 60, 0.6);
-    max-width: 400px;
+    max-width: 500px;
     position: absolute;
     left: 10%;
     padding: 30px;
